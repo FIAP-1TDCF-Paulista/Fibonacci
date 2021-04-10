@@ -7,19 +7,14 @@
 Cada dupla deverá entregar o arquivo `fibonacci_RM1_RM2.py` onde o **RM é o (Registro de Matrícula) de cada um dos alunos**.
 
 ---
- ## Entregáveis
-
-### O QUE DEVERÁ SER DESENVOLVIDO
-
-Você deve fazer um codigo python que recebe um valor e depois imprima a mesma quantidade de 
-
+## Entregáveis
 ### DESENVOLVIMENTO
 
-- 1. Elabore um programa em linguagem Python que leia um
+- Elabore um programa em linguagem Python que leia um
 número inteiro N e, em seguida, mostre na tela os N primeiros termos da
 sequência de Fibonacci. Faça o programa de modo que o valor de N
 seja no mínimo 
-- 2.A sequência de Fibonacci é uma sequência de números inteiros
+- A sequência de Fibonacci é uma sequência de números inteiros
 que têm as seguintes regras de formação: os dois primeiros termos são
 0 e 1; do terceiro termo em diante cada termo é a soma dos dois
 anteriores.
