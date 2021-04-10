@@ -73,6 +73,7 @@ Neste projeto, verificamos se você é capaz de:
   * Agora crie uma branch para qual você vai submeter os `commits` do seu projeto
     * Você deve criar uma branch no seguinte formato: `nome-de-usuarioGitHub-nome-do-projeto`
     * Exemplo: `git checkout -b victordg00-fibonacci`
+    * No caso de trabalhos em dupla colocar o nome dos dois integrantes: `git checkout -b victordg00-PranaKnight-fibonacci`
     
 3. Adicione as mudanças ao _stage_ do Git e faça um `commit`
   * Verifique que as mudanças ainda não estão no _stage_
