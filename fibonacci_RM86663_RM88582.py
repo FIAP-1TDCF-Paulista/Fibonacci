@@ -36,5 +36,4 @@ while True:
             print("Por favor, leia as instruções e comece novamente")
     else:
         print("Leia as instruções de entrada e comece de novo.")
-        i = 1
 print("Obrigado. Tenha um ótimo dia!")
