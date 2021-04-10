@@ -1,21 +1,41 @@
-# Fibonacci
+# Fibonacci.py
 ## 1° CheckPoint dev-and-coding-for-security
-
 ## Informações do Check Point
 ### Atividade em duplas
 ### Data de entrega: A atividade poderá ser entregue até o dia 16/4 (sexta-feira)
 #### Duplas declaradas no servidor do discord
 Cada dupla deverá entregar o arquivo `fibonacci_RM1_RM2.py` onde o **RM é o (Registro de Matrícula) de cada um dos alunos**.
 
+---
+ ## Entregáveis
+
+### O QUE DEVERÁ SER DESENVOLVIDO
+
+Você deve fazer um codigo python que recebe um valor e depois imprima a mesma quantidade de 
+
+### DESENVOLVIMENTO
+
+- 1. Elabore um programa em linguagem Python que leia um
+número inteiro N e, em seguida, mostre na tela os N primeiros termos da
+sequência de Fibonacci. Faça o programa de modo que o valor de N
+seja no mínimo 
+- 2.A sequência de Fibonacci é uma sequência de números inteiros
+que têm as seguintes regras de formação: os dois primeiros termos são
+0 e 1; do terceiro termo em diante cada termo é a soma dos dois
+anteriores.
+Exemplo:> Se N = 10, então: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+---
 
 ## Habilidades
 
 Neste projeto, verificamos se você é capaz de:
 
-- Utilizar If em estrutura aninhada
+- Utilizar IF em estrutura aninhada
 - Utilizar While para fazer as repetições necessárias
 
 ---
+
 ### ANTES DE COMEÇAR A DESENVOLVER
 
 1. Clone o repositório
