@@ -10,13 +10,11 @@ VICTOR DIAS GONÇALVEZ RM 88582
 """
 print("Algoritmo que recebe uma entrada do usuario e fornece a sequencia de Fibonacci até aquele número:")
 
-i = 0
 simValido = ['s', 'sim', 'si', 'S', 'SIM', 'Si', 'SI']
 naoValido = ['n', 'nao', 'não', 'ñ', 'Ñ', 'Não', 'NÃO']
 while True:
     n = int(input("Digite um Número Inteiro maior que 2: "))
     print("-="*20)
-    i = n
     if n >= 2:
         f0 = 0
         f1 = 1
@@ -32,7 +30,6 @@ while True:
         x = input("Gostaria de digitar mais um número?")
         if x in simValido:
             print("-="*20)
-            i = 1
         elif x in naoValido:
             break
         else:
