@@ -21,15 +21,17 @@ while True:
         f0 = 0
         f1 = 1
         print("0 \n1")
-        n -=2
+        n -= 2
         while n > 0:
             fn = f0 + f1
             f0 = f1
             f1 = fn
             print(fn)
             n -= 1
+        print("-="*20)
         x = input("Gostaria de digitar mais um número?")
         if x in simValido:
+            print("-="*20)
             i = 1
         elif x in naoValido:
             break
