@@ -42,8 +42,8 @@ Alunos
 Nome - RM00000
 Nome - RM00000  
 ''' 
-    Codigo 
-``
+    Codigo
+```
   
 - Após finalizar todo código eviar no [formulario](https://forms.gle/uFsrEd1bVBpZZ396A) 
 
@@ -65,11 +65,11 @@ Neste projeto, verificamos se você é capaz de:
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd Fibonacci`
     
-2. Crie uma branch a partir da branch `master`
-  * Verifique que você está na branch `master`
+2. Crie uma branch a partir da branch `main`
+  * Verifique que você está na branch `main`
     * Exemplo: `git branch`
-  * Se não estiver, mude para a branch `master`
-    * Exemplo: `git checkout master`
+  * Se não estiver, mude para a branch `main`
+    * Exemplo: `git checkout main`
   * Agora crie uma branch para qual você vai submeter os `commits` do seu projeto
     * Você deve criar uma branch no seguinte formato: `nome-de-usuarioGitHub-nome-do-projeto`
     * Exemplo: `git checkout -b victordg00-fibonacci`
