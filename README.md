@@ -4,10 +4,12 @@
 ### Atividade em duplas
 ### Data de entrega: A atividade poderá ser entregue até o dia 16/4 (sexta-feira)
 #### Duplas declaradas no servidor do discord
-Cada dupla deverá entregar o arquivo `fibonacci_RM1_RM2.py` onde o **RM é o (Registro de Matrícula) de cada um dos alunos**.
+Cada dupla deverá entregar o arquivo `fibonacci_RM1_RM2.py` onde o **RM é o (Registro de Matrícula) de cada um dos alunos da Dupla**.
 
 ---
 ## Entregáveis
+1. arquivo `fibonacci_RM00000_RM00000.py`  
+
 ### DESENVOLVIMENTO
 
 - Elabore um programa em linguagem Python que leia um
@@ -18,7 +20,32 @@ seja no mínimo
 que têm as seguintes regras de formação: os dois primeiros termos são
 0 e 1; do terceiro termo em diante cada termo é a soma dos dois
 anteriores.
-Exemplo:> Se N = 10, então: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+> Exemplo: Se N = 10, então: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+##### Observações:
+Trabalho deve ser realizado em duplas;
+Cada dupla entregará apenas um código;
+O nome dos integrantes deve constar na forma de
+comentário multiline no corpo do código;
+Apenas um integrante da dupla deverá entregar o arquivo fibonacci_RM1_RM2.py 
+
+
+### Padrão de entrega
+
+- Todos os arquivos entregues tem que possuir, no inicio do codigo, o seguinte padrão:
+´´´
+´´´  
+FIAP
+Defesa Cibernética - 1TDCF - 2021
+Development e Coding for Security
+Prof. Ms. Fábio H. Cabrini
+Atividade: Check Point 1  
+Alunos
+Nome - RM00000
+Nome - RM00000  
+´´´ 
+´´´
+  
+- Após finalizar todo código eviar no [formulario](https://forms.gle/uFsrEd1bVBpZZ396A) 
 
 ---
 
@@ -69,4 +96,4 @@ Neste projeto, verificamos se você é capaz de:
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-010-b-project-zoo-functions/pulls) e confira que o seu _Pull Request_ está criado.
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/FIAP-1TDCF-Paulista/Fibonacci/pulls) e confira que o seu _Pull Request_ está criado.
