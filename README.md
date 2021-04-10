@@ -22,18 +22,17 @@ que têm as seguintes regras de formação: os dois primeiros termos são
 anteriores.
 > Exemplo: Se N = 10, então: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 ##### Observações:
-Trabalho deve ser realizado em duplas;
-Cada dupla entregará apenas um código;
-O nome dos integrantes deve constar na forma de
-comentário multiline no corpo do código;
+Trabalho deve ser realizado em duplas
+Cada dupla entregará apenas um código
+O nome dos integrantes deve constar na forma de comentário multiline no corpo do código
 Apenas um integrante da dupla deverá entregar o arquivo fibonacci_RM1_RM2.py 
 
 
 ### Padrão de entrega
 
-- Todos os arquivos entregues tem que possuir, no inicio do codigo, o seguinte padrão:
-´´´
-´´´  
+- Todos os arquivos entregues tem que possuir, no inicio do codigo, o seguinte padrão
+``` 
+'''
 FIAP
 Defesa Cibernética - 1TDCF - 2021
 Development e Coding for Security
@@ -42,8 +41,8 @@ Atividade: Check Point 1
 Alunos
 Nome - RM00000
 Nome - RM00000  
-´´´ 
-´´´
+''' 
+```
   
 - Após finalizar todo código eviar no [formulario](https://forms.gle/uFsrEd1bVBpZZ396A) 
 
